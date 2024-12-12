@@ -99,11 +99,11 @@
 	},
 	"sources": {
 		"contracts/ultimate-solidity-course-for-complete-beginners-main/Exercises/4-Calculator-Exercise.sol": {
-			"keccak256": "0x77cdffff7e82aa847fbed26a6a16d2a229700733c2fe89575eddc3a773673c84",
+			"keccak256": "0xafc2c473d3bb587bcd3a11be37fcc592f007c5294e5c6b04d150f5ae8547bc78",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f1d03f7d06c317ab83495672301b8a7e56ce1c1c7e39706f20f829576b19127",
-				"dweb:/ipfs/QmSzKeck2wRuChuwBnf5xF6E4CSwSMRw9vYaNQNH3nt8Dn"
+				"bzz-raw://aac451e8b214c355863bc07622057325833a7d7126422243ed73fdb51a9d482b",
+				"dweb:/ipfs/QmW6vgeZDeLSn9dw8aFSsSyvSA3oBjwRG46eM1fTm4vpzG"
 			]
 		}
 	},
